@@ -9,7 +9,7 @@
   - Models and Feature Generation codes are stored inside "codes" folder.
   - All the necessary diagrams are stored inside "graphs and diagrams" folder.
 
-## Employing CRISPRforecast:
+## Employing CRISPRforecast Models:
   - Install necessary packages from "requirements.txt"
   - In order to generate features, use the dataset that is given inside the "data" folder.
     - Put both Feature_Generation.ipynb and Original_Dataset.csv file in the same folder.
