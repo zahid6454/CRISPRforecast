@@ -1,6 +1,6 @@
 # CRISPRforecast: An effective method to predict high on-target sgRNA activity in CRISPR/Cas9 systems
 
-## Authors: Zahid Hossain, Sajid Ahmed, Shafayat Bin Sabbir, Atikul Islam Sajib, Md Rafsan Jani, Sheikh Adilina , Dewan Md. Farid, Abdollah Dehzangi & Swakkhar Shatabda
+## Authors:  Zahid Hossain; Sajid Ahmed; Shafayat Bin Shabbir; Atikul Islam Sajib; Dewan MD Farid; ghazaleh taherzadeh; abdollah dehzangi, Ph.D.; Swakkhar Shatabda
 
 ## Website Link: https://crisprforecast.pythonanywhere.com/
 
