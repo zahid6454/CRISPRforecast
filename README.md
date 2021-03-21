@@ -21,4 +21,4 @@
     - CRISPR_Feature_Selection_RFC.ipynb
     - CRISPR_No_Feature_Reduction.ipynb 
     - Dataset.csv
-  - Final step, execute every single .ipynb file to get the results.     
+  - Final step, execute every single .ipynb file to get the results of every single CRISPRforecast models.     
