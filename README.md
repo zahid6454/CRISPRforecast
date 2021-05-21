@@ -21,4 +21,6 @@
     - CRISPR_Feature_Selection_RFC.ipynb
     - CRISPR_No_Feature_Reduction.ipynb 
     - Dataset.csv
-  - Final step, execute every single .ipynb file to get the results of every single CRISPRforecast models.     
+  - "Creating_Independent_Random_Test_Set.ipynb" file is used for only to create the independent test set. 
+  - Final step, execute every single .ipynb (except "Creating_Independent_Random_Test_Set.ipynb" file) file to get the results of every single CRISPRforecast models.     
+
